@@ -1,6 +1,6 @@
 # Car-Game
 
-To play, type the following code in git cmd and run the project in java :
+To play, type the following code in git cmd and run the project in Java IDE:
 
 git clone https://github.com/MuradAbbaszade/Car-Game
 
